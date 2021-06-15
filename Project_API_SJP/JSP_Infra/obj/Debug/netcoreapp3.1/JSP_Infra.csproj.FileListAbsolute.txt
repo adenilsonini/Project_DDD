@@ -1,0 +1,15 @@
+D:\projetos vb\Project_API_SJP\JSP_Infra\bin\Debug\netcoreapp3.1\JSP_Infra.deps.json
+D:\projetos vb\Project_API_SJP\JSP_Infra\bin\Debug\netcoreapp3.1\JSP_Infra.runtimeconfig.json
+D:\projetos vb\Project_API_SJP\JSP_Infra\bin\Debug\netcoreapp3.1\JSP_Infra.runtimeconfig.dev.json
+D:\projetos vb\Project_API_SJP\JSP_Infra\bin\Debug\netcoreapp3.1\JSP_Infra.dll
+D:\projetos vb\Project_API_SJP\JSP_Infra\bin\Debug\netcoreapp3.1\JSP_Infra.pdb
+D:\projetos vb\Project_API_SJP\JSP_Infra\obj\Debug\netcoreapp3.1\JSP_Infra.csprojAssemblyReference.cache
+D:\projetos vb\Project_API_SJP\JSP_Infra\obj\Debug\netcoreapp3.1\JSP_Infra.AssemblyInfoInputs.cache
+D:\projetos vb\Project_API_SJP\JSP_Infra\obj\Debug\netcoreapp3.1\JSP_Infra.AssemblyInfo.cs
+D:\projetos vb\Project_API_SJP\JSP_Infra\obj\Debug\netcoreapp3.1\JSP_Infra.csproj.CoreCompileInputs.cache
+D:\projetos vb\Project_API_SJP\JSP_Infra\obj\Debug\netcoreapp3.1\JSP_Infra.dll
+D:\projetos vb\Project_API_SJP\JSP_Infra\obj\Debug\netcoreapp3.1\JSP_Infra.pdb
+D:\projetos vb\Project_API_SJP\JSP_Infra\obj\Debug\netcoreapp3.1\JSP_Infra.genruntimeconfig.cache
+D:\projetos vb\Project_API_SJP\JSP_Infra\bin\Debug\netcoreapp3.1\JSP.Domain.dll
+D:\projetos vb\Project_API_SJP\JSP_Infra\bin\Debug\netcoreapp3.1\JSP.Domain.pdb
+D:\projetos vb\Project_API_SJP\JSP_Infra\obj\Debug\netcoreapp3.1\JSP_Infra.csproj.CopyComplete

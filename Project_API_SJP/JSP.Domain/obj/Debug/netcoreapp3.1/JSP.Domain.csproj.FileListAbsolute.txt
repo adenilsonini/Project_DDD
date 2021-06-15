@@ -1,0 +1,12 @@
+D:\projetos vb\Project_API_SJP\JSP.Domain\bin\Debug\netcoreapp3.1\JSP.Domain.deps.json
+D:\projetos vb\Project_API_SJP\JSP.Domain\bin\Debug\netcoreapp3.1\JSP.Domain.dll
+D:\projetos vb\Project_API_SJP\JSP.Domain\bin\Debug\netcoreapp3.1\JSP.Domain.pdb
+D:\projetos vb\Project_API_SJP\JSP.Domain\obj\Debug\netcoreapp3.1\JSP.Domain.csprojAssemblyReference.cache
+D:\projetos vb\Project_API_SJP\JSP.Domain\obj\Debug\netcoreapp3.1\JSP.Domain.AssemblyInfoInputs.cache
+D:\projetos vb\Project_API_SJP\JSP.Domain\obj\Debug\netcoreapp3.1\JSP.Domain.AssemblyInfo.cs
+D:\projetos vb\Project_API_SJP\JSP.Domain\obj\Debug\netcoreapp3.1\JSP.Domain.csproj.CoreCompileInputs.cache
+D:\projetos vb\Project_API_SJP\JSP.Domain\obj\Debug\netcoreapp3.1\JSP.Domain.dll
+D:\projetos vb\Project_API_SJP\JSP.Domain\obj\Debug\netcoreapp3.1\JSP.Domain.pdb
+D:\projetos vb\Project_API_SJP\JSP.Domain\bin\Debug\netcoreapp3.1\JSP.Domain.runtimeconfig.json
+D:\projetos vb\Project_API_SJP\JSP.Domain\bin\Debug\netcoreapp3.1\JSP.Domain.runtimeconfig.dev.json
+D:\projetos vb\Project_API_SJP\JSP.Domain\obj\Debug\netcoreapp3.1\JSP.Domain.genruntimeconfig.cache

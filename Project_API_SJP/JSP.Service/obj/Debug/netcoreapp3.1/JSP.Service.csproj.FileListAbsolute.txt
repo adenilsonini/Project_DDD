@@ -1,0 +1,17 @@
+D:\projetos vb\Project_API_SJP\JSP.Service\bin\Debug\netcoreapp3.1\JSP.Service.deps.json
+D:\projetos vb\Project_API_SJP\JSP.Service\bin\Debug\netcoreapp3.1\JSP.Service.dll
+D:\projetos vb\Project_API_SJP\JSP.Service\bin\Debug\netcoreapp3.1\JSP.Service.pdb
+D:\projetos vb\Project_API_SJP\JSP.Service\bin\Debug\netcoreapp3.1\JSP.Domain.dll
+D:\projetos vb\Project_API_SJP\JSP.Service\bin\Debug\netcoreapp3.1\JSP_Infra.dll
+D:\projetos vb\Project_API_SJP\JSP.Service\bin\Debug\netcoreapp3.1\JSP.Domain.pdb
+D:\projetos vb\Project_API_SJP\JSP.Service\bin\Debug\netcoreapp3.1\JSP_Infra.pdb
+D:\projetos vb\Project_API_SJP\JSP.Service\obj\Debug\netcoreapp3.1\JSP.Service.csprojAssemblyReference.cache
+D:\projetos vb\Project_API_SJP\JSP.Service\obj\Debug\netcoreapp3.1\JSP.Service.AssemblyInfoInputs.cache
+D:\projetos vb\Project_API_SJP\JSP.Service\obj\Debug\netcoreapp3.1\JSP.Service.AssemblyInfo.cs
+D:\projetos vb\Project_API_SJP\JSP.Service\obj\Debug\netcoreapp3.1\JSP.Service.csproj.CoreCompileInputs.cache
+D:\projetos vb\Project_API_SJP\JSP.Service\obj\Debug\netcoreapp3.1\JSP.Service.csproj.CopyComplete
+D:\projetos vb\Project_API_SJP\JSP.Service\obj\Debug\netcoreapp3.1\JSP.Service.dll
+D:\projetos vb\Project_API_SJP\JSP.Service\obj\Debug\netcoreapp3.1\JSP.Service.pdb
+D:\projetos vb\Project_API_SJP\JSP.Service\bin\Debug\netcoreapp3.1\JSP.Service.runtimeconfig.json
+D:\projetos vb\Project_API_SJP\JSP.Service\bin\Debug\netcoreapp3.1\JSP.Service.runtimeconfig.dev.json
+D:\projetos vb\Project_API_SJP\JSP.Service\obj\Debug\netcoreapp3.1\JSP.Service.genruntimeconfig.cache
